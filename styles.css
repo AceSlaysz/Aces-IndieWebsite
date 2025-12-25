@@ -18,6 +18,10 @@ object-fit: cover; /* fills screen without distortion */
 display: block; 
 cursor: pointer; }
 
+nav { 
+margin-top: 20px; 
+}
+
 .content img {
 width: 70%;
 height: 60%;
