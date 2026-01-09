@@ -1,2 +1,2 @@
 # Ace--s_Palace
-Indie website & Portfolio
+Indie Website & Portfolio
